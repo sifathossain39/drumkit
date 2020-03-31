@@ -11,9 +11,14 @@ h1 {
 
 }
 
-footer {
+.link {
   color: #DBEDF3;
   font-family: sans-serif;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #DA0463;
 }
 
 .w {}
